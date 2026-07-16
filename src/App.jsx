@@ -29,7 +29,7 @@ function App() {
     <div className="layout">
       <header className="hero-band">
         <div className="container">
-          <div className="eyebrow-uppercase">SYSTEMATIC TRADING</div>
+          <div className="eyebrow-uppercase">Nikkei 225 Futures & Options</div>
           <h1 className="display-lg">Backtest Analytics</h1>
           <p className="body-md text-mute">Analyze and visualize.</p>
         </div>
