@@ -31,7 +31,7 @@ function App() {
         <div className="container">
           <div className="eyebrow-uppercase">SYSTEMATIC TRADING</div>
           <h1 className="display-lg">Backtest Analytics</h1>
-          <p className="body-md text-mute">Analyze and visualize your edge.</p>
+          <p className="body-md text-mute">Analyze and visualize.</p>
         </div>
       </header>
 
