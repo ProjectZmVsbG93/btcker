@@ -18,8 +18,8 @@ export function useTrades() {
     futures: 'all', // 'all', '+', '-'
     optionsTotal: 'all', // 'all', '+', '-'
     optionsIndividual: 'all', // 'all', '+', '-'
-    matchType: 'allMatchPlus', // 'any', 'all' - for combining filters
-    strategy: 'all'
+    matchType: 'any', // 'any', 'all' - for combining filters
+    strategy: 'futAndOpTotal'
   });
 
   // Save to local storage on change
